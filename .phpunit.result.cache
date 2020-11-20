@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":270:{a:2:{s:7:"defects";a:3:{s:25:"CalculatriceTest::testAdd";i:3;s:25:"UserTest::testInvalidUser";i:3;s:23:"UserTest::testValidUser";i:3;}s:5:"times";a:3:{s:25:"CalculatriceTest::testAdd";d:0.002;s:23:"UserTest::testValidUser";d:0.002;s:25:"UserTest::testInvalidUser";d:0;}}}
